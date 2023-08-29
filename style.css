@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f3f3f3;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+label {
+    font-weight: bold;
+    margin-right: 10px;
+    color: #333;
+}
+
+input {
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+p {
+    margin-top: 10px;
+    color: #333;
+}
+
+.highlight {
+    color: #ff6347;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f3f3f3;
+}
+
+h1 {
+    margin-bottom: 10px; /* تصغير المسافة بين العنوان والمحتوى */
+    font-size: 18px; /* تصغير حجم العنوان */
+    color: #007bff;
+}
+
+label {
+    font-weight: bold;
+    margin-right: 5px; /* تصغير المسافة بين العنوان والمحتوى */
+    color: #333;
+}
+
+input {
+    padding: 5px;
+    margin-right: 5px; /* تصغير المسافة بين العنوان والمحتوى */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px; /* تصغير حجم النص في حقل الإدخال */
+}
+
+button {
+    margin-top: 5px; /* تصغير المسافة بين العنوان والزر */
+    padding: 3px 8px; /* تصغير حجم الزر */
+    font-size: 14px; /* تصغير حجم النص في الزر */
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+p {
+    margin-top: 5px; /* تصغير المسافة بين العنوان والفقرة */
+    font-size: 14px; /* تصغير حجم النص في الفقرة */
+    color: #333;
+}
+
+.highlight {
+    color: #ff6347;
+}
